@@ -42,7 +42,6 @@
 
 
 
-
     echo 'email: '.$email. '<br>';
     echo 'password: '.$password.'<br>';    
     echo 'city: '.$city.'<br>';
